@@ -1,8 +1,11 @@
 import React from 'react';
+import aa from "../../CSS/bootstrap.min.css"
 
 const Footer = () => {
   return (
     <footer className="w-100 d-flex align-item-center justify-content-center flex-wrap">
+<link rel="stylesheet" href={aa} />
+        
       <p className="fs-5 px-3 pt-3"> Todos los derechos &copy; reservado por "Fred Zuti" AND "The coffee gang" ✅</p>
       <div id="iconos">
         <a href="https://www.twitter.com/tutialfred" target="_blank_" rel="noopener noreferrer">

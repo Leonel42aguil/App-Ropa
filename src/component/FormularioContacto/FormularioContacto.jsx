@@ -4,6 +4,7 @@ import a from "../../Images/support.png"
 const FormularioContacto = () => {
   return (
     <section id="seccion-contacto" className="border-bottom border-dark border-4">
+        
       <div id="bg-contacto">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
           <path
