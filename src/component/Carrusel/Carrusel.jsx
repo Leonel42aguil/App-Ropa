@@ -2,8 +2,9 @@ import React from 'react';
 import a from "../../Images/oficina.jpg"
 import b from "../../Images/modelo.jpg"
 import c from "../../Images/lv.jpg"
-import d from "../../Images/oficina.jpg"
-import e from "../../Images/oficina.jpg"
+import "../../CSS/productos.css"
+// import "../../CSS/slider.css"
+import "../../CSS/style.css"
 
 const Carrusel = () => {
   return (

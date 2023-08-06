@@ -1,5 +1,8 @@
 import React from 'react';
 import a from "../../Images/support.png"
+import "../../CSS/productos.css"
+// import "../../CSS/slider.css"
+import "../../CSS/style.css"
 
 const FormularioContacto = () => {
   return (

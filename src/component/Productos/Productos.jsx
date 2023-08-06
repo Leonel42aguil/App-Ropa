@@ -1,11 +1,14 @@
 import React from 'react';
-import a from "../../Images/t-shirt Black.png"
-import b from "../../Images/PANTALON2.jpg"
-import c from "../../Images/ADIDAS PANTS.PNG"
-import d from "../../Images/ADIDAS.PNG"
-import aa from "../../CSS/bootstrap.min.css"
+import a from "../../Images/t-shirt_Black.png"
+import b from "../../Images/PANTALON2.png"
+import c from "../../Images/ADIDAS_PANTS.png"
+import d from "../../Images/ADIDAS.png"
+import aa from "../../CSS/bootstrap.min.css" 
+import "../../CSS/productos.css"
+// import "../../CSS/slider.css"
+import "../../CSS/style.css"
 
-const Productos = () => {
+const Productos = () => { 
   return (
       <section className="container-fluid">
         <link rel="stylesheet" href={aa} />

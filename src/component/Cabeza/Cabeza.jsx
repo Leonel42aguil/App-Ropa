@@ -1,4 +1,7 @@
 import React from 'react'
+import "../../CSS/productos.css"
+// import "../../CSS/slider.css"
+import "../../CSS/style.css"
 
 export default function Cabeza() {
   return (

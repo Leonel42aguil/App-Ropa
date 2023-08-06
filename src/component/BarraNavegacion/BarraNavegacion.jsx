@@ -1,4 +1,8 @@
 import React from 'react';
+import b from "../../Images/fredd.PNG"
+import "../../CSS/productos.css"
+// import "../../CSS/slider.css"
+import "../../CSS/style.css"
 
 const BarraNavegacion = () => {
   return (
@@ -6,7 +10,7 @@ const BarraNavegacion = () => {
       <div className="container-fluid">
         <a className="navbar-brand" href="index.html">
           {/* <span className="fs-4 fw-bold text-decoration-underline">Fred zuti</span> */}
-          <img className="pp2" src="Images/fredd.PNG" alt="" />
+          <img className="pp2" src={b} alt="" />
         </a>
         <button
           className="navbar-toggler"

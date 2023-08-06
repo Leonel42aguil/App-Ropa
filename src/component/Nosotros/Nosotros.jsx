@@ -3,6 +3,9 @@ import a from "../../Images/slider/leftarrow.svg"
 import e from "../../Images/slider/rightarrow.svg"
 import b from "../../Images/tuti.png"
 import d from "../../Images/leonel.jfif"
+import "../../CSS/productos.css"
+// import "../../CSS/slider.css"
+import "../../CSS/style.css"
 
 const Nosotros = () => {
   return (
@@ -72,7 +75,7 @@ const Nosotros = () => {
 
             <section className="d-flex" id="numeros-local">
               {/* . */}
-              <div>
+              <div> 
                 <p className="text-primary fs-5">248</p>
                 <p>días de sol</p>
               </div>

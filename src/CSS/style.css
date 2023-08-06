@@ -1,9 +1,12 @@
 /* INDEX.HTML */
-body{
-    background: #00F260;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    }
+body {
+    background: #f0f0f0;  /* Color de fondo principal (gris claro) */
+    background: -webkit-linear-gradient(to right, #f0f0f0, #d3d3d3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f0f0f0, #d3d3d3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #333;  /* Color de texto (gris oscuro) */
+}
+
+
 /* contenedor */
 .div1{
     background-color: rgb(255, 0, 0);

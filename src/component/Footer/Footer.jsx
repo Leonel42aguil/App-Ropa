@@ -1,5 +1,8 @@
 import React from 'react';
 import aa from "../../CSS/bootstrap.min.css"
+import "../../CSS/productos.css"
+// import "../../CSS/slider.css"
+import "../../CSS/style.css"
 
 const Footer = () => {
   return (
